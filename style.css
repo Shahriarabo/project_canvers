@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.hero {
+    background-image: url(./img/hero.png);
+    background-position: center;
+    background-size: cover;
+    height: 554px;
+    background-color: #193532;
+}
+.hero-subtitle {
+	line-height: 100px;
+}
+.hero-subtitle p{
+   font-size: 14px;
+}
+.hreo-title-part-two hr {
+	width: 210px;
+	height: 2px;
+	margin: 0 auto;
+}
+.box-ber {
+	background-image: url(./img/box01.png);
+	height: 300px;
+	background-size: cover;
+	background-position: center;
+}
+.col-lg-4.col-md-6.col-sm-12 {
+	position: relative;
+}
+.box-ber h5 {
+	position: absolute;
+	bottom: 0;
+	padding:  12px;
+}
+.box-ber-two  {
+    background-image:url(./img/box02.png);
+    height: 300px;
+	background-size: cover;
+	background-position: center;
+}
+.box-ber-two h5 {
+	position: absolute;
+	bottom: 0;
+	padding:  12px;
+}
+.box-ber-three  {
+    background-image: url(./img/box03.png);
+    height: 300px;
+	background-size: cover;
+	background-position: center;
+}
+.box-ber-three h5 {
+	position: absolute;
+	bottom: 0;
+	padding:  12px;
+}
+.box-ber-fore  {
+    background-image: url(./img/box04.png);
+    height: 300px;
+	background-size: cover;
+	background-position: center;
+}
+.box-ber-fore h5 {
+	position: absolute;
+	bottom: 0;
+	padding:  12px;
+}
+.box-ber-five  {
+    background-image: url(./img/box05.png);
+    height: 300px;
+	background-size: cover;
+	background-position: center;
+}
+.box-ber-five h5 {
+	position: absolute;
+	bottom: 0;
+	padding:  12px;
+}
+.box-ber-six  {
+    background-image: url(./img/box06.png);
+    height: 300px;
+	background-size: cover;
+	background-position: center;
+}
+.box-ber-six h5 {
+	position: absolute;
+	bottom: 0;
+	padding:  12px;
+}
+
